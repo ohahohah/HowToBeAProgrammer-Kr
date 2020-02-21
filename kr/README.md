@@ -25,9 +25,9 @@ Copyright 2002, 2003, 2016 Robert L. Read
 
 **[중국어](zh/README.md) 와 [일본어](jp/README.md)로도 번역되어 있습니다.**
 
-1. [초보자 Beginner](en/1-Beginner)
+1. [초보자 Beginner](ko/1-Beginner)
     - 개인 스킬
-        - [Learn-To-Debug](en/1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
+        - [디버깅하는 법 배우기](ko/1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
         - [How to Debug by Splitting the Problem Space](en/1-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
         - [How to Remove an Error](en/1-Beginner/Personal-Skills/03-How-to-Remove-an-Error.md)
         - [How to Debug Using a Log](en/1-Beginner/Personal-Skills/04-How-to-Debug-Using-a-Log.md)
